@@ -1,0 +1,20 @@
+{
+  "name": "ftp-sftp-example",
+  "version": "1.0.0",
+  "description": "A showcase of the ftp-sftp library I created. It's a minimalistic FTP/SFTP client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ftp",
+    "sftp",
+    "example"
+  ],
+  "author": "Dennis Heckmann",
+  "license": "ISC",
+  "dependencies": {
+    "ftp-sftp": "^1.0.1"
+  }
+}
